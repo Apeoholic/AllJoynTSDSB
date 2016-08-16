@@ -1,0 +1,2 @@
+MainPackage=C:\TFS\Alljoyn\TellstickDSB\TSDSB\HeadedAdapterApp\bin\x86\Debug\HeadedAdapterApp_0.1.0.0_x86_Debug.appx
+SymbolPackage=C:\TFS\Alljoyn\TellstickDSB\TSDSB\HeadedAdapterApp\AppPackages\HeadedAdapterApp_0.1.0.0_Debug_Test\HeadedAdapterApp_0.1.0.0_x86_Debug.appxsym

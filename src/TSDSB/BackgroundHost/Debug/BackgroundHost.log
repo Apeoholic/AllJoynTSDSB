@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  IServiceImplementation.cpp
+     Creating library C:\TFS\Alljoyn\TellstickDSB\Debug\BackgroundHost\BackgroundHost.lib and object C:\TFS\Alljoyn\TellstickDSB\Debug\BackgroundHost\BackgroundHost.exp
+  BackgroundHost.vcxproj -> C:\TFS\Alljoyn\TellstickDSB\Debug\BackgroundHost\BackgroundHost.dll
+  BackgroundHost.vcxproj -> C:\TFS\Alljoyn\TellstickDSB\Debug\BackgroundHost\BackgroundHost.pdb (Partial PDB)
