@@ -3,3 +3,11 @@
 ################################################################################
 
 /src/ARM/Debug
+/src/TSDSB/AdapterLib/bin/ARM/Debug
+/src/TSDSB/AdapterLib/obj/ARM/Debug
+/src/TSDSB/BackgroundHost.Headed/ARM/Debug
+/src/TSDSB/HeadedAdapterApp/bin/ARM/Debug
+/src/TSDSB/BridgeRT/ARM/Debug
+/src/TSDSB/HeadedAdapterApp/obj
+/src/TSDSB/HeadlessAdapterApp/bin/ARM/Debug
+/src/.vs/TSDSB/v14

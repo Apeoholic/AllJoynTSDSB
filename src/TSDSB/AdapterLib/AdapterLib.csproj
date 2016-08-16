@@ -133,21 +133,6 @@
     <Compile Include="HeadlessStartupTask.cs" />
     <Compile Include="AdapterDevice.cs" />
     <Compile Include="Helpers\ProtocolHelpers.cs" />
-    <Compile Include="obj\ARM\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
-    <Compile Include="obj\ARM\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
-    <Compile Include="obj\ARM\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
-    <Compile Include="obj\ARM\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
-    <Compile Include="obj\ARM\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
-    <Compile Include="obj\ARM\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
-    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
-    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
-    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
-    <Compile Include="obj\x64\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
-    <Compile Include="obj\x64\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
-    <Compile Include="obj\x64\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
-    <Compile Include="obj\x86\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
-    <Compile Include="obj\x86\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
-    <Compile Include="obj\x86\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Protocols\EverflourishProtocol.cs" />
     <Compile Include="Protocols\FineoffsetProtocol.cs" />
     <Compile Include="Protocols\Message.cs" />
@@ -164,39 +149,6 @@
     <Compile Include="Protocols\TypeEnum.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="obj\ARM\Debug\AdapterLib.csprojResolveAssemblyReference.cache" />
-    <None Include="obj\ARM\Debug\AdapterLib.winmd" />
-    <None Include="obj\ARM\Debug\AdapterLib.winmdobj" />
-    <None Include="obj\ARM\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
-    <None Include="obj\ARM\Debug\embed.resfiles" />
-    <None Include="obj\ARM\Debug\embed.resfiles.intermediate" />
-    <None Include="obj\ARM\Debug\layout.resfiles" />
-    <None Include="obj\ARM\Debug\layout.resfiles.intermediate" />
-    <None Include="obj\ARM\Debug\pri.resfiles" />
-    <None Include="obj\ARM\Debug\pri.resfiles.intermediate" />
-    <None Include="obj\ARM\Debug\priconfig.xml.intermediate" />
-    <None Include="obj\ARM\Debug\qualifiers.txt.intermediate" />
-    <None Include="obj\ARM\Debug\resources.resfiles" />
-    <None Include="obj\ARM\Debug\resources.resfiles.intermediate" />
-    <None Include="obj\Debug\AdapterLib.csprojResolveAssemblyReference.cache" />
-    <None Include="obj\Debug\AdapterLib.winmd" />
-    <None Include="obj\Debug\AdapterLib.winmdobj" />
-    <None Include="obj\Debug\build.force" />
-    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
-    <None Include="obj\x86\Debug\AdapterLib.csprojResolveAssemblyReference.cache" />
-    <None Include="obj\x86\Debug\AdapterLib.winmd" />
-    <None Include="obj\x86\Debug\AdapterLib.winmdobj" />
-    <None Include="obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
-    <None Include="obj\x86\Debug\embed.resfiles" />
-    <None Include="obj\x86\Debug\embed.resfiles.intermediate" />
-    <None Include="obj\x86\Debug\layout.resfiles" />
-    <None Include="obj\x86\Debug\layout.resfiles.intermediate" />
-    <None Include="obj\x86\Debug\pri.resfiles" />
-    <None Include="obj\x86\Debug\pri.resfiles.intermediate" />
-    <None Include="obj\x86\Debug\priconfig.xml.intermediate" />
-    <None Include="obj\x86\Debug\qualifiers.txt.intermediate" />
-    <None Include="obj\x86\Debug\resources.resfiles" />
-    <None Include="obj\x86\Debug\resources.resfiles.intermediate" />
     <None Include="project.json">
       <SubType>Designer</SubType>
     </None>
@@ -224,27 +176,8 @@
     <Content Include="Assets\Bulb.png" />
     <Content Include="Assets\TelldusLive.png" />
     <Content Include="Assets\Temperature.png" />
-    <Content Include="obj\ARM\Debug\AdapterLib.compile.pdb" />
-    <Content Include="obj\ARM\Debug\AdapterLib.csproj.FileListAbsolute.txt" />
-    <Content Include="obj\ARM\Debug\AdapterLib.pdb" />
-    <Content Include="obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt" />
-    <Content Include="obj\ARM\Debug\priconfig.xml" />
-    <Content Include="obj\ARM\Debug\qualifiers.txt" />
-    <Content Include="obj\Debug\AdapterLib.compile.pdb" />
-    <Content Include="obj\Debug\AdapterLib.csproj.FileListAbsolute.txt" />
-    <Content Include="obj\Debug\AdapterLib.pdb" />
-    <Content Include="obj\x86\Debug\AdapterLib.compile.pdb" />
-    <Content Include="obj\x86\Debug\AdapterLib.csproj.FileListAbsolute.txt" />
-    <Content Include="obj\x86\Debug\AdapterLib.pdb" />
-    <Content Include="obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt" />
-    <Content Include="obj\x86\Debug\priconfig.xml" />
-    <Content Include="obj\x86\Debug\qualifiers.txt" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="obj\ARM\Debug\TempPE\" />
-    <Folder Include="obj\Debug\TempPE\" />
-    <Folder Include="obj\x86\Debug\TempPE\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>
