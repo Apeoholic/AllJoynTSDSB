@@ -12,8 +12,13 @@ org.alljoyn.SmartSpaces.Environment.CurrentTemperature
 
 ### Humidity sensor
 
-org.alljoyn.SmartSpaces.Environment.Humidity
+org.alljoyn.SmartSpaces.Environment.CurrentHumidity
 
 ### Dimmer, outlets
 
 Lighting Service Framework
+
+
+Next version:
+Implementing https://github.com/dotMorten/AlljoynDSB
+Adding support for switch
