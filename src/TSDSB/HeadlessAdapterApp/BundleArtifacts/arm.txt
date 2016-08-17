@@ -1,2 +1,2 @@
-MainPackage=C:\TFS\Alljoyn\TellstickDSB\TSDSB\HeadlessAdapterApp\bin\ARM\Release\HeadlessAdapterApp_0.1.0.0_ARM.appx
-SymbolPackage=C:\TFS\Alljoyn\TellstickDSB\TSDSB\HeadlessAdapterApp\AppPackages\HeadlessAdapterApp_0.1.0.0_Test\HeadlessAdapterApp_0.1.0.0_ARM.appxsym
+MainPackage=C:\GIT\Apeoholic\AllJoyn TS DSB\src\TSDSB\HeadlessAdapterApp\bin\ARM\Release\HeadlessAdapterApp_0.1.0.0_ARM.appx
+SymbolPackage=C:\GIT\Apeoholic\AllJoyn TS DSB\src\TSDSB\HeadlessAdapterApp\AppPackages\HeadlessAdapterApp_0.1.0.0_Test\HeadlessAdapterApp_0.1.0.0_ARM.appxsym

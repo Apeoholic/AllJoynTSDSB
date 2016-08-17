@@ -1,7 +1,0 @@
-﻿  ApplicationImplementation.cpp
-  XamlLibMetadataProvider.g.cpp
-  XamlTypeInfo.Impl.g.cpp
-  ServiceOperationView.xaml.cpp
-  XamlTypeInfo.g.cpp
-  BackgroundHost.Headed.vcxproj -> C:\TFS\Alljoyn\TellstickDSB\Debug\BackgroundHost.Headed\BackgroundHost.Headed.dll
-  BackgroundHost.Headed.vcxproj -> C:\TFS\Alljoyn\TellstickDSB\Debug\BackgroundHost.Headed\BackgroundHost.Headed.pdb (Partial PDB)
